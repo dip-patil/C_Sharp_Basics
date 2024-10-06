@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DecisionMakingDemo\InheritanceExample\obj\Debug\InheritanceExample.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DecisionMakingDemo\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DecisionMakingDemo\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+C:\Users\HP\source\repos\DecisionMakingDemo\InheritanceExample\bin\Debug\InheritanceExample.exe
+C:\Users\HP\source\repos\DecisionMakingDemo\InheritanceExample\bin\Debug\InheritanceExample.pdb
+C:\Users\HP\source\repos\DecisionMakingDemo\InheritanceExample\obj\Debug\InheritanceExample.exe
+C:\Users\HP\source\repos\DecisionMakingDemo\InheritanceExample\obj\Debug\InheritanceExample.pdb

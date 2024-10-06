@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7013430-865F-408E-AE4D-0DD2975967DD}|LoopExample\\LoopExample.csproj|C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\loopexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7013430-865F-408E-AE4D-0DD2975967DD}|LoopExample\\LoopExample.csproj|solutionrelative:loopexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9EFE63-84C4-40D4-B4C3-324B4FAB1EAA}|JumpStatementDemo\\JumpStatementDemo.csproj|C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\jumpstatementdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9EFE63-84C4-40D4-B4C3-324B4FAB1EAA}|JumpStatementDemo\\JumpStatementDemo.csproj|solutionrelative:jumpstatementdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BE4FBC-15C1-4342-A930-EC953C5F7928}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\hp\\source\\repos\\decisionmakingdemo\\interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BE4FBC-15C1-4342-A930-EC953C5F7928}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001D7A94-CE65-4EE6-AD57-FD627EF06FDE}|AbstractionExample\\AbstractionExample.csproj|C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\abstractionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001D7A94-CE65-4EE6-AD57-FD627EF06FDE}|AbstractionExample\\AbstractionExample.csproj|solutionrelative:abstractionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3174D2-0279-472C-9F64-88674AA848E5}|PolymorphismExample\\PolymorphismExample.csproj|C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\polymorphismexample\\overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3174D2-0279-472C-9F64-88674AA848E5}|PolymorphismExample\\PolymorphismExample.csproj|solutionrelative:polymorphismexample\\overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C521BF5-5626-4933-B630-52B328756E65}|InheritanceExample\\InheritanceExample.csproj|C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\inheritanceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C521BF5-5626-4933-B630-52B328756E65}|InheritanceExample\\InheritanceExample.csproj|solutionrelative:inheritanceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A516ADEE-4B2A-445B-8429-80CF2C3A1E6B}|DecisionMakingDemo\\DecisionMakingDemo.csproj|C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\decisionmakingdemo\\jumpstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A516ADEE-4B2A-445B-8429-80CF2C3A1E6B}|DecisionMakingDemo\\DecisionMakingDemo.csproj|solutionrelative:decisionmakingdemo\\jumpstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A516ADEE-4B2A-445B-8429-80CF2C3A1E6B}|DecisionMakingDemo\\DecisionMakingDemo.csproj|C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\decisionmakingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A516ADEE-4B2A-445B-8429-80CF2C3A1E6B}|DecisionMakingDemo\\DecisionMakingDemo.csproj|solutionrelative:decisionmakingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\InterfaceExample\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\InterfaceExample\\Program.cs",
+              "RelativeToolTip": "InterfaceExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:54:05.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\AbstractionExample\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\AbstractionExample\\Program.cs",
+              "RelativeToolTip": "AbstractionExample\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwDwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:50:45.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Overriding.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\PolymorphismExample\\Overriding.cs",
+              "RelativeDocumentMoniker": "PolymorphismExample\\Overriding.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\PolymorphismExample\\Overriding.cs",
+              "RelativeToolTip": "PolymorphismExample\\Overriding.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:41:04.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\InheritanceExample\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceExample\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\InheritanceExample\\Program.cs",
+              "RelativeToolTip": "InheritanceExample\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwEcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:24:25.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\LoopExample\\Program.cs",
+              "RelativeDocumentMoniker": "LoopExample\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\LoopExample\\Program.cs*",
+              "RelativeToolTip": "LoopExample\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:28:11.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\JumpStatementDemo\\Program.cs",
+              "RelativeDocumentMoniker": "JumpStatementDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\JumpStatementDemo\\Program.cs",
+              "RelativeToolTip": "JumpStatementDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:24:32.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JumpStatement.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\DecisionMakingDemo\\JumpStatement.cs",
+              "RelativeDocumentMoniker": "DecisionMakingDemo\\JumpStatement.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\DecisionMakingDemo\\JumpStatement.cs",
+              "RelativeToolTip": "DecisionMakingDemo\\JumpStatement.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwv1YAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:08:43.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\DecisionMakingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DecisionMakingDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DecisionMakingDemo\\DecisionMakingDemo\\Program.cs",
+              "RelativeToolTip": "DecisionMakingDemo\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:06:18.376Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
